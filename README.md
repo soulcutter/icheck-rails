@@ -1,6 +1,6 @@
 #icheck-rails
 
-## WARNING: Unofficial form for Rails 4
+## WARNING: Unofficial version for Rails 4
 
 This is an UNOFFICIAL fork of the [icheck-rails gem](https://github.com/cubus/icheck-rails) packaged for Rails 4
 
