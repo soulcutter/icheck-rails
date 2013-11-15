@@ -1,5 +1,8 @@
-icheck-rails
-=======================
+#icheck-rails
+
+## WARNING: Unofficial form for Rails 4
+
+This is an UNOFFICIAL fork of the [icheck-rails gem](https://github.com/cubus/icheck-rails) packaged for Rails 4
 
 [iCheck](http://damirfoy.com/iCheck/) is a library for creating super customized checkboxes and radio buttons with JQuery & Zepto.
 This [Gem](http://rubygems.org/) packages iCheck for [Ruby](http://www.ruby-lang.org) on
@@ -7,16 +10,16 @@ This [Gem](http://rubygems.org/) packages iCheck for [Ruby](http://www.ruby-lang
 
 License: [MIT License](http://opensource.org/licenses/MIT) (just like iCheck)
 
-Rails: 3.1 and up
+Rails: 4 and up
 
-This gem's major and minor version reflects the version of iCheck it packages (currently iCheck 0.9 is packaged by icheck-rails 0.9.0.2)
+This gem's major and minor version reflects the version of iCheck it packages (currently iCheck 0.9.1 is packaged by icheck-rails 0.9.1.0)
 
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'icheck-rails'
+    gem 'icheck-rails', git: 'git@github.com:soulcutter/icheck-rails.git', branch: 'rails4'
 
 
 And then execute:
